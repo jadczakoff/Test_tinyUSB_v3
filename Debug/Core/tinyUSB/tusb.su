@@ -1,0 +1,7 @@
+../Core/tinyUSB/tusb.c:39:6:tusb_init	4	static
+../Core/tinyUSB/tusb.c:54:6:tusb_inited	16	static
+../Core/tinyUSB/tusb.c:73:6:tu_edpt_claim	24	static
+../Core/tinyUSB/tusb.c:97:6:tu_edpt_release	24	static
+../Core/tinyUSB/tusb.c:119:6:tu_edpt_validate	48	static,ignoring_inline_asm
+../Core/tinyUSB/tusb.c:158:6:tu_edpt_bind_driver	56	static
+../Core/tinyUSB/tusb.c:177:10:tu_desc_get_interface_total_len	56	static

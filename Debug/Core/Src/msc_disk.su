@@ -1,0 +1,8 @@
+../Core/Src/msc_disk.c:124:6:tud_msc_inquiry_cb	64	static
+../Core/Src/msc_disk.c:139:6:tud_msc_test_unit_ready_cb	16	static
+../Core/Src/msc_disk.c:155:6:tud_msc_capacity_cb	24	static
+../Core/Src/msc_disk.c:166:6:tud_msc_start_stop_cb	16	static
+../Core/Src/msc_disk.c:188:9:tud_msc_read10_cb	32	static
+../Core/Src/msc_disk.c:201:6:tud_msc_is_writable_cb	16	static
+../Core/Src/msc_disk.c:214:9:tud_msc_write10_cb	32	static
+../Core/Src/msc_disk.c:234:9:tud_msc_scsi_cb	40	static
